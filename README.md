@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<img src="SCEO%20SEO%20Website/assets/images/project-logo.png" alt="SCEO SEO Agency Logo" width="500"/>
+<img src="SCEO%20SEO%20Website/assets/images/project-logo.png" alt="SCEO SEO Agency Logo" width="200"/>
 
 ## 🚀 SCEO – SEO Agency Website
 A professional and fully responsive **SEO Agency Website UI** built to showcase digital marketing, branding, and optimization services in a clean and modern layout.  
@@ -32,7 +32,6 @@ The project was created using the following technologies:
 
 * [HTML5](https://html5.org/)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ---
