@@ -69,7 +69,6 @@ Ideal for:
 - SEO and digital marketing agencies
 - Content marketing businesses
 - Branding and growth agencies
-- Freelance marketing professionals
 - Front-end UI and responsive design practice
 
 ---
