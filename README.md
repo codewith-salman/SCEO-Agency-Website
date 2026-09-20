@@ -79,7 +79,6 @@ Ideal for:
 - Fully responsive SEO agency website
 - Professional and modern UI design
 - Digital marketing service sections
-- SEO and brand growth-focused content
 - Mobile-friendly layout
 - Clean typography and visual hierarchy
 - Smooth hover and transition effects
